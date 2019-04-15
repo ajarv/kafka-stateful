@@ -1,0 +1,7 @@
+target/
+galaxy/
+.classpath
+.project
+.settings/
+.idea
+npm*
